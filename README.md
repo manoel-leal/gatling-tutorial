@@ -4,8 +4,9 @@ Um tutorial de instalação e uso da ferramenta de teste de carga Gatling
 # Pré-requisitos
 
 * Java SDK 1.8 ou superior;
-* Variável de ambiente JAVA_HOME configurada
-* Eclipse (ou outra ide) com o plugin de scala configurado
+* Variável de ambiente JAVA_HOME configurada;
+* Eclipse (ou outra ide) com o plugin de scala instalado;
+* Apache Maven isntalado e a variavel de ambiente configurada.
 
 # Instalação
 
