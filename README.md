@@ -3,10 +3,10 @@ Um tutorial de instalação e uso da ferramenta de teste de carga Gatling
 
 # Pré-requisitos
 
-* Java SDK 1.8 ou superior;
+* JDK 1.8 ou superior;
 * Variável de ambiente JAVA_HOME configurada;
 * IDE com o plugin de scala instalado;
-* Apache Maven isntalado e a variavel de ambiente configurada.
+* Apache Maven instalado e a variavel de ambiente configurada.
 
 # Instalação
 
@@ -14,7 +14,7 @@ Um tutorial de instalação e uso da ferramenta de teste de carga Gatling
 * Após realizar o download descompactar o arquivo
 * Acessar a pasta bin e executar o arquivo gatling.bat (Windows) ou gatling.sh (Linux)
 * Verificar que serão apresentadas simulações de exemplo
-* Selecionar a simulação desejada
+* Selecionar a simulação desejada e confirmar a execução do teste
 * Verificar que o relatório foi gerado no repositório results
 * Caso os passos anteriores foram executados sem problemas então a ferramenta está com as configurações básicas concluídas
 
@@ -22,7 +22,7 @@ Um tutorial de instalação e uso da ferramenta de teste de carga Gatling
 
 * Repositorio bin: executavel do gatling e do recorder;
 * Repositório results: Relatórios gerados durante a execução dos testes
-* Repositório user-filer: Resultado da gravação realizada pelo Recorder UI, contem scripts scala.
+* Repositório user-filer/simulation: Resultado da gravação realizada pelo Recorder UI, contem scripts scala.
 
 # Recorder UI
 
