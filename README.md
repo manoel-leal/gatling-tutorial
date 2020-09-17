@@ -55,7 +55,7 @@ Recorde UI é uma ferramenta que grava as interações do usuário com a página
 
 # Configuração Eclipse
 
-# Estrutura conceitual de um script de testes de Performance, Carga e Stress no Gatling
+# Estrutura de script Gatling
 
 * HTTP Protocol Configuration
 * Header Definition
