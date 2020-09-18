@@ -97,5 +97,6 @@ class TestScript extends Simulation{
 * https://gatling.io/
 * https://www.udemy.com/course/performance-testing-using-gatling/
 * https://www.blazemeter.com/blog/how-to-set-up-and-run-your-gatling-tests-with-eclipse
+* https://www.youtube.com/watch?v=-tk24HMG41g&list=PL0tG0nwG7UJlzSW1R1uiGY9cCHWaYSzA-&index=10
 
  
