@@ -1,5 +1,5 @@
 # gatling-tutorial
-Um tutorial de instalação e uso da ferramenta de teste de carga Gatling
+Um tutorial de instalação e uso da ferramenta Gatling para testes de performance, carga e stress.
 
 # Pré-requisitos
 
@@ -98,5 +98,6 @@ class TestScript extends Simulation{
 * https://www.udemy.com/course/performance-testing-using-gatling/
 * https://www.blazemeter.com/blog/how-to-set-up-and-run-your-gatling-tests-with-eclipse
 * https://www.youtube.com/watch?v=-tk24HMG41g&list=PL0tG0nwG7UJlzSW1R1uiGY9cCHWaYSzA-&index=10
+* https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing
 
  
