@@ -99,5 +99,6 @@ class TestScript extends Simulation{
 * https://www.blazemeter.com/blog/how-to-set-up-and-run-your-gatling-tests-with-eclipse
 * https://www.youtube.com/watch?v=-tk24HMG41g&list=PL0tG0nwG7UJlzSW1R1uiGY9cCHWaYSzA-&index=10
 * https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing
+* https://medium.com/socialbase/usando-gatling-load-testing-para-fazer-teste-de-performance-d1c0db6af455
 
  
