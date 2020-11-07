@@ -1,0 +1,395 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 80,
+        "ok": 80,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 824,
+        "ok": 824,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 11805,
+        "ok": 11805,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 3903,
+        "ok": 3903,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 3049,
+        "ok": 3049,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 1889,
+        "ok": 1889,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 6495,
+        "ok": 6495,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 7131,
+        "ok": 7131,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 11792,
+        "ok": 11792,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 22,
+        "percentage": 28
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 58,
+        "percentage": 73
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 4.705882352941177,
+        "ok": 4.705882352941177,
+        "ko": 0
+    }
+},
+"contents": {
+"req_gerar-token-b1626": {
+        "type": "REQUEST",
+        "name": "Gerar Token",
+"path": "Gerar Token",
+"pathFormatted": "req_gerar-token-b1626",
+"stats": {
+    "name": "Gerar Token",
+    "numberOfRequests": {
+        "total": 20,
+        "ok": 20,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 6652,
+        "ok": 6652,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 11805,
+        "ok": 11805,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 7755,
+        "ok": 7755,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 2020,
+        "ok": 2020,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 6793,
+        "ok": 6793,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 6881,
+        "ok": 6881,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 11789,
+        "ok": 11789,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 11802,
+        "ok": 11802,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 20,
+        "percentage": 100
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.1764705882352942,
+        "ok": 1.1764705882352942,
+        "ko": 0
+    }
+}
+    },"req_post-empresa-65210": {
+        "type": "REQUEST",
+        "name": "Post_Empresa",
+"path": "Post_Empresa",
+"pathFormatted": "req_post-empresa-65210",
+"stats": {
+    "name": "Post_Empresa",
+    "numberOfRequests": {
+        "total": 20,
+        "ok": 20,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 882,
+        "ok": 882,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 6443,
+        "ok": 6443,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 5101,
+        "ok": 5101,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 1961,
+        "ok": 1961,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 5933,
+        "ok": 5933,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 6315,
+        "ok": 6315,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 6442,
+        "ok": 6442,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 6443,
+        "ok": 6443,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 2,
+        "percentage": 10
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 18,
+        "percentage": 90
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.1764705882352942,
+        "ok": 1.1764705882352942,
+        "ko": 0
+    }
+}
+    },"req_post-anuncio-1c8ee": {
+        "type": "REQUEST",
+        "name": "Post_Anuncio",
+"path": "Post_Anuncio",
+"pathFormatted": "req_post-anuncio-1c8ee",
+"stats": {
+    "name": "Post_Anuncio",
+    "numberOfRequests": {
+        "total": 20,
+        "ok": 20,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 824,
+        "ok": 824,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1144,
+        "ok": 1144,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 1064,
+        "ok": 1064,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 76,
+        "ok": 76,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 1055,
+        "ok": 1055,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 1134,
+        "ok": 1134,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1142,
+        "ok": 1142,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 1144,
+        "ok": 1144,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 20,
+        "percentage": 100
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.1764705882352942,
+        "ok": 1.1764705882352942,
+        "ko": 0
+    }
+}
+    },"req_put-anuncio-pub-507e8": {
+        "type": "REQUEST",
+        "name": "Put_Anuncio_publicar",
+"path": "Put_Anuncio_publicar",
+"pathFormatted": "req_put-anuncio-pub-507e8",
+"stats": {
+    "name": "Put_Anuncio_publicar",
+    "numberOfRequests": {
+        "total": 20,
+        "ok": 20,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 1235,
+        "ok": 1235,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1997,
+        "ok": 1997,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 1693,
+        "ok": 1693,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 204,
+        "ok": 204,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 1699,
+        "ok": 1699,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 1802,
+        "ok": 1802,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1988,
+        "ok": 1988,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 1995,
+        "ok": 1995,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 20,
+        "percentage": 100
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.1764705882352942,
+        "ok": 1.1764705882352942,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

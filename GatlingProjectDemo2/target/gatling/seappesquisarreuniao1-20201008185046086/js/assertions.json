@@ -1,0 +1,10 @@
+{
+  "simulation": "basic.SeapPesquisarReuniao1",
+  "simulationId": "seappesquisarreuniao1",
+  "start": 1602183046086,
+  "description": "teste",
+  "scenarios": ["SeapPesquisarReuniao1"],
+  "assertions": [
+
+  ]
+}

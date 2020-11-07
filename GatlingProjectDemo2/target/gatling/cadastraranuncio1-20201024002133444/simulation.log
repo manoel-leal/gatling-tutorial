@@ -1,0 +1,9 @@
+RUN	basic.CadastrarAnuncio1	cadastraranuncio1	1603498893444	teste	3.0.2
+USER	CadastrarAnuncio	1	START	1603498895775	1603498895775
+USER	CadastrarAnuncio	2	START	1603498895801	1603498895801
+REQUEST	2		Gerar Token	1603498895802	1603498901302	OK	 
+REQUEST	1		Gerar Token	1603498895799	1603498901441	OK	 
+REQUEST	1		Post_Empresa	1603498906462	1603498921453	KO	j.n.UnknownHostException: api-mercado-azul-plus.homolog.kubernetes.sebrae.com.brv1
+REQUEST	2		Post_Empresa	1603498906328	1603498921453	KO	j.n.UnknownHostException: api-mercado-azul-plus.homolog.kubernetes.sebrae.com.brv1: Name or service not known
+USER	CadastrarAnuncio	2	END	1603498895801	1603498921481
+USER	CadastrarAnuncio	1	END	1603498895775	1603498921481

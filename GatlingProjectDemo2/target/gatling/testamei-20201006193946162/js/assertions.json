@@ -1,0 +1,10 @@
+{
+  "simulation": "basic.TestAmei",
+  "simulationId": "testamei",
+  "start": 1602013186162,
+  "description": "teste",
+  "scenarios": ["POST Authentication"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "basic.TestScript",
+  "simulationId": "testscript",
+  "start": 1601927472705,
+  "description": "teste",
+  "scenarios": ["SearchComputer"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "basic.AcessoMercadoAzul1",
+  "simulationId": "acessomercadoazul1",
+  "start": 1603118152936,
+  "description": "teste",
+  "scenarios": ["AcessoMercadoAzul1"],
+  "assertions": [
+
+  ]
+}

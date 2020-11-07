@@ -1,0 +1,10 @@
+{
+  "simulation": "basic.EmContaServicosContabeis",
+  "simulationId": "emcontaservicoscontabeis",
+  "start": 1602093087932,
+  "description": "teste",
+  "scenarios": ["EmContaServicosContabeis"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,16 @@
+RUN	basic.TestAmei	testamei	1602012538760	teste	3.0.2
+ERROR	get: Failed to build request: No attribute named 'acess_token' is defined 	1602012541259
+USER	POST Authentication	1	START	1602012541246	1602012541246
+ERROR	get: Failed to build request: No attribute named 'acess_token' is defined 	1602012541266
+USER	POST Authentication	2	START	1602012541265	1602012541265
+ERROR	get: Failed to build request: No attribute named 'acess_token' is defined 	1602012541267
+USER	POST Authentication	3	START	1602012541266	1602012541266
+ERROR	get: Failed to build request: No attribute named 'acess_token' is defined 	1602012541268
+USER	POST Authentication	4	START	1602012541267	1602012541267
+ERROR	get: Failed to build request: No attribute named 'acess_token' is defined 	1602012541269
+USER	POST Authentication	5	START	1602012541269	1602012541269
+USER	POST Authentication	1	END	1602012541246	1602012541265
+USER	POST Authentication	2	END	1602012541265	1602012541266
+USER	POST Authentication	3	END	1602012541266	1602012541267
+USER	POST Authentication	4	END	1602012541267	1602012541268
+USER	POST Authentication	5	END	1602012541269	1602012541270

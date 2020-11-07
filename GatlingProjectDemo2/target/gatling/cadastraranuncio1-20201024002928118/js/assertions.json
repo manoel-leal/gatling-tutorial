@@ -1,0 +1,10 @@
+{
+  "simulation": "basic.CadastrarAnuncio1",
+  "simulationId": "cadastraranuncio1",
+  "start": 1603499368118,
+  "description": "teste",
+  "scenarios": ["CadastrarAnuncio"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,7 @@
+RUN	basic.CadastrarAnuncio1	cadastraranuncio1	1603497881836	teste	3.0.2
+ERROR	Gerar Token: Failed to build request: No attribute named 'username' is defined 	1603497884196
+USER	CadastrarAnuncio	1	START	1603497884179	1603497884179
+ERROR	Gerar Token: Failed to build request: No attribute named 'username' is defined 	1603497884207
+USER	CadastrarAnuncio	2	START	1603497884207	1603497884207
+USER	CadastrarAnuncio	2	END	1603497884207	1603497889224
+USER	CadastrarAnuncio	1	END	1603497884179	1603497889225

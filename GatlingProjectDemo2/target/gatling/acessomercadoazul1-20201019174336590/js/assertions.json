@@ -1,0 +1,10 @@
+{
+  "simulation": "basic.AcessoMercadoAzul1",
+  "simulationId": "acessomercadoazul1",
+  "start": 1603129416590,
+  "description": "teste script acesso mercado azul",
+  "scenarios": ["AcessoMercadoAzul1"],
+  "assertions": [
+
+  ]
+}

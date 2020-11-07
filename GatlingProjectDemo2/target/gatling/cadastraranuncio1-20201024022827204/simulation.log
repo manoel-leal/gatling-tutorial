@@ -1,0 +1,13 @@
+RUN	basic.CadastrarAnuncio1	cadastraranuncio1	1603506507204	tste	3.0.2
+USER	CadastrarAnuncio	1	START	1603506508544	1603506508544
+USER	CadastrarAnuncio	2	START	1603506508575	1603506508575
+REQUEST	2		Gerar Token	1603506508576	1603506515552	KO	j.n.UnknownHostException: amei.homolog.kubernetes.sebrae.com.br
+REQUEST	1		Gerar Token	1603506508573	1603506515552	KO	j.n.UnknownHostException: amei.homolog.kubernetes.sebrae.com.br: Name or service not known
+ERROR	Post_Empresa: Failed to build request: No attribute named 'access_token' is defined 	1603506515576
+ERROR	Post_Empresa: Failed to build request: No attribute named 'access_token' is defined 	1603506515576
+ERROR	Post_Anuncio: Failed to build request: No attribute named 'access_token' is defined 	1603506515579
+ERROR	Post_Anuncio: Failed to build request: No attribute named 'access_token' is defined 	1603506515579
+ERROR	Put_Anuncio_publicar: Failed to build request: No attribute named 'access_token' is defined 	1603506515580
+ERROR	Put_Anuncio_publicar: Failed to build request: No attribute named 'access_token' is defined 	1603506515580
+USER	CadastrarAnuncio	1	END	1603506508544	1603506515583
+USER	CadastrarAnuncio	2	END	1603506508575	1603506515583

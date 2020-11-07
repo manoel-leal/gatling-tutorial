@@ -1,0 +1,10 @@
+{
+  "simulation": "basic.TestEmConta",
+  "simulationId": "testemconta",
+  "start": 1602092412551,
+  "description": "teste",
+  "scenarios": ["POST Authentication"],
+  "assertions": [
+
+  ]
+}
