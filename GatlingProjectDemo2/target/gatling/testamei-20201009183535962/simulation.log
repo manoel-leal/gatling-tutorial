@@ -1,5 +1,0 @@
-RUN	basic.TestAmei	testamei	1602268535962	teste	3.0.2
-USER	POST Authentication	1	START	1602268538425	1602268538425
-USER	POST Authentication	2	START	1602268538430	1602268538430
-USER	POST Authentication	3	START	1602268538430	1602268538430
-ERROR	POST OAuth Req: Failed to build request: No attribute named 'username' is defined 	1602268538461
