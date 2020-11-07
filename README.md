@@ -55,6 +55,8 @@ Recorde UI é uma ferramenta que grava as interações do usuário com a página
 
 # Configuração Eclipse
 
+* https://www.blazemeter.com/blog/how-to-set-up-and-run-your-gatling-tests-with-eclipse
+
 # Estrutura de script Gatling
 
 * HTTP Protocol Configuration
