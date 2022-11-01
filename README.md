@@ -1,4 +1,5 @@
-# gatling-tutorial
+# Tutorial do Gatling
+
 Um tutorial de instalação e uso da ferramenta Gatling para testes de performance, carga e stress.
 
 # Pré-requisitos
